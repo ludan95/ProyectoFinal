@@ -92,3 +92,4 @@ D:\Tecnologico\Octavo\TecnologiasWebII\ProyectoFinal\proyectoOaxacaNuestroArte\e
 D:\Tecnologico\Octavo\TecnologiasWebII\ProyectoFinal\proyectoOaxacaNuestroArte\ecoOaxacaNuestroArte\obj\Debug\ecoOaxacaNuestroArte.Cliente.csproj.CopyComplete
 D:\Tecnologico\Octavo\TecnologiasWebII\ProyectoFinal\proyectoOaxacaNuestroArte\ecoOaxacaNuestroArte\obj\Debug\ecoOaxacaNuestroArte.dll
 D:\Tecnologico\Octavo\TecnologiasWebII\ProyectoFinal\proyectoOaxacaNuestroArte\ecoOaxacaNuestroArte\obj\Debug\ecoOaxacaNuestroArte.pdb
+D:\Tecnologico\Octavo\TecnologiasWebII\ProyectoFinal\proyectoOaxacaNuestroArte\ecoOaxacaNuestroArte\obj\Debug\ecoOaxacaNuestroArte.Cliente.csproj.AssemblyReference.cache
